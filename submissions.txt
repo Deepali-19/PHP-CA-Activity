@@ -1,0 +1,12 @@
+---- New Submission ----
+First Name: Deepali
+Last Name: Singh
+College: LPU
+Course Type: UG
+Course Name: Btech CSE
+Email: deepalis1003@gmail.com
+Password: Deepa@1
+Mobile: 9119152143
+Gender: Female
+------------------------
+
